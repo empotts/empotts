@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ethan 👋
 
 <!--
 **empotts/empotts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently learning React JS and Database Management
+- 💬 Ask me about my photography
+- 📫 How to reach me: ethanmpotts@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play trumpet in the Razorback Marching Band
