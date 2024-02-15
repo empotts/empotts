@@ -21,3 +21,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ethanmpotts@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play trumpet in the Razorback Marching Band
+
+
+## Languages
+
+    ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
+
+## Tools and Frameworks
+
+## Current Projects and Learning
+
+
