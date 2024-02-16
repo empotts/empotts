@@ -57,3 +57,5 @@ Here are some ideas to get you started:
 * CSCE 3513 Software Engineering Laser Tag System Project
 
 ## Completed Projects and Certifications
+
+* freeCodeCamp Responsive Web Design Certification
