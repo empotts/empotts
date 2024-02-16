@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my portfolio website.
+- 🔭 I’m currently working on my portfolio website!
 - 🌱 I’m currently learning React JS and Database Management
-- 💬 Ask me about my photography
+- 📸 Ask me about my sports photography business!
 - 📫 How to reach me: ethanmpotts@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play trumpet in the Razorback Marching Band
+- 🎺 Fun fact: I play trumpet in the Razorback Marching Band!
 
 
 ## Languages
