@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
 
 
-
-
-
  
 ## Tools and Frameworks
 
@@ -59,3 +56,5 @@ Here are some ideas to get you started:
 ## Completed Projects and Certifications
 
 * freeCodeCamp Responsive Web Design Certification
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=empotts&theme=transparent&hide_border=true&border_radius=8)](https://git.io/streak-stats)
