@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 ## Languages
 
 ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
- ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
+![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
 ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
 ![JavaScript Badge](https://img.shields.io/badge/Javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
+![MATLAB Badge](https://custom-icon-badges.demolab.com/badge/MATLAB-050c6b.svg?logo=matlab_logo)
+![R Badge](https://custom-icon-badges.demolab.com/badge/R-75aadb.svg?logo=r)
 
 
  
