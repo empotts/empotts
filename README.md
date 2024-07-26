@@ -51,9 +51,7 @@ Here are some ideas to get you started:
 
 * freeCodeCamp Relational Database
 
-* BMEG 4963 Genome Engineering Computational Biology Projects
-
-* CSCE 3513 Software Engineering Laser Tag System Project
+* Conference Conundrum CFB Conference Simulator 
 
 ## Completed Projects and Certifications
 
