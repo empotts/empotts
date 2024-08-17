@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📸 Ask me about my sports photography business!
 - 📫 How to reach me: ethanmpotts@gmail.com
 - 😄 Pronouns: He/Him
-- 🎺 Fun fact: I play trumpet in the Razorback Marching Band!
+- 🎺 Fun fact: I played trumpet in the Razorback Marching Band!
 
 
 ## Languages
