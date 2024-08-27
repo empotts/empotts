@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React JS and Database Management
 - 📸 Ask me about my sports photography business!
 - 📫 How to reach me: ethanmpotts@gmail.com
-- 😄 Pronouns: He/Him
-- 🎺 Fun fact: I played trumpet in the Razorback Marching Band!
 
 
 ## Languages
@@ -28,7 +26,8 @@ Here are some ideas to get you started:
 ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
 ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
 ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
-![JavaScript Badge](https://img.shields.io/badge/Javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat&logo=typescript)
 ![CSS3 Badge](https://img.shields.io/badge/CSS-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
 ![MATLAB Badge](https://custom-icon-badges.demolab.com/badge/MATLAB-050c6b.svg?logo=matlab_logo)
@@ -36,11 +35,15 @@ Here are some ideas to get you started:
 
 
  
-## Tools and Frameworks
+## Tools, Libraries, and Frameworks
 
  ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+ ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat&logo=postgresql)
  ![React Badge](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
+ ![Node Badge](https://img.shields.io/badge/Node.js-%23000000?style=flat&logo=nodedotjs)
+ ![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-121213?style=flat&logo=rabbitmq)
+ ![Swagger Badge](https://img.shields.io/badge/Swagger-%230d8000?style=flat&logo=swagger)
  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
  ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat)
  ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
