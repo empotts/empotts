@@ -61,3 +61,6 @@ Here are some ideas to get you started:
 * freeCodeCamp Responsive Web Design Certification
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=empotts&theme=transparent&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=empotts&show_icons=true#gh-light-mode-only)](https://github.com/empotts/#gh-light-mode-only)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=empotts&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/empotts/#gh-dark-mode-only)
